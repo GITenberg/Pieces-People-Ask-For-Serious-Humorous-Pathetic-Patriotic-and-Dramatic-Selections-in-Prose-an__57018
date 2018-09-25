@@ -1,5 +1,8 @@
 _repo: Pieces-People-Ask-For-Serious-Humorous-Pathetic-Patriotic-and-Dramatic-Selections-in-Prose-an__57018
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57018-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44486
     wikipedia: http://en.wikipedia.org/wiki/George_Melville_Baker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57018#Pieces-People-Ask-For-Serious-Humorous-Pathetic-Patriotic-and-Dramatic-Selections-in-Prose-an_
 gutenberg_issued: '2018-04-21'
 gutenberg_type: Text
 identifiers:
